@@ -1,2 +1,3 @@
 # filter
-Image Filter program using c
+
+Image Filter program using C
